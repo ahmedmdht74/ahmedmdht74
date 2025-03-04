@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Ahmed Medhat  
 
 - 👀 I’m interested in web development, e-commerce platforms, and building efficient backend systems.  
-- 🌱 I’m currently learning and working with C#, LINQ, Entity Framework, ASP.NET Core, MVC, and APIs.
+- 🌱 I’m currently learning and working with C#, LINQ, Entity Framework, ASP.NET Core, MVC, and APIs.![FB_IMG_1666277770722](https://github.com/user-attachments/assets/2852f13d-8371-4e37-bd82-95ca9e82a017)
+
  
 - ## 📫 How to reach me  
 - Email: ahmedmdht74@gmail.com
